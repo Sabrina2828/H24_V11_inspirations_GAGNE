@@ -4,5 +4,7 @@
 Photo de moi
 
 ## **Intérêts dans le multimedia**
+J'aime particulièment la diversité de ce programme qui offre un grand nombre de 
 
 ## Ce qui me plait dans l'introduction à la muséologie en TIM
+Je suis pas
