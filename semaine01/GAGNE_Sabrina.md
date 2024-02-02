@@ -1,5 +1,5 @@
 <h1>Sabrina Gagné</h1>
-[!image¨](IMG_7295.jpg)
+![image](IMG_7295.jpg)
 Photo de moi
 
 <h2>Intérêts dans le multimedia</h2>
