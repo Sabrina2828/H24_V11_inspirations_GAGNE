@@ -1,5 +1,5 @@
-<h1>Sabrina Gagné
+<h1>Sabrina Gagné</h1>
 
 Photo de moi
 
-Intérêts dans le multimedia
+<h2>Intérêts dans le multimedia</h2>
