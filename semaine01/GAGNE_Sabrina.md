@@ -2,7 +2,7 @@
 ![photo](https://github.com/Sabrina2828/H24_V11_inspirations_GAGNE/blob/main/semaine01/IMG_7295.jpg?raw=true)
 
 ## **Intérêts dans le multimedia**
-Je suis passionnée par la technique multimédia, surtout pour l'animation, l'audio, la vidéo et la programmation. Ces domaines m'ont toujours fascinée. Aujourd'hui, je suis ravie de pouvoir en faire mon métier. Je suis déterminée à évoluer et à m'épanouir dans ce domaine.
+Je suis passionnée par la technique en multimédia, surtout pour l'animation, l'audio, la vidéo et la programmation. Ces domaines m'ont toujours fascinée, et j'ai vraiment envie d'évoluer et de m'épanouir dans ce secteur.
 
 ## Ce qui me plait dans l'introduction à la muséologie en TIM
 
