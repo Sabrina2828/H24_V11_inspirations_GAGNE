@@ -1,5 +1,5 @@
 # Sabrina Gagné
-![photo](https://github.com/Sabrina2828/H24_V11_inspirations_GAGNE/blob/main/semaine01/IMG_7295.jpg?raw=true)
+<img src="/semaine01/IMG_7295.jpg">
 
 ## **Intérêts dans le multimedia**
 Je suis passionnée par la technique en multimédia, surtout pour l'animation, l'audio, la vidéo et la programmation. Ces domaines m'ont toujours fascinée, et j'ai vraiment envie d'évoluer et de m'épanouir dans ce secteur.
