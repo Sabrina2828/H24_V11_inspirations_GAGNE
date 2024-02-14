@@ -35,9 +35,9 @@ Bancs, éclairage, système de projection vidéo, etc.
 Expérience vécue	Posture du visiteur ou gestes de l'interacteur 🎥 possibilité d'intégrer de courts vidéos pour documenter l'interactivité avec celle-ci
 
 
-❤️ Ce qui vous a plu, vous a donné des idées (et pourquoi - justifications	Éléments pertinents
+❤️ Ce qui vous a plu, vous a donné des idées (et pourquoi - justifications	Éléments pertinents: 
+Immersion (le son, les jeux de lumière et les vibrations)
 
-
-🤔 Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement et justifications	Éléments pertinents
+🤔 Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement et justifications	Éléments pertinents: La simplicité, car j'ai trouvé que, d'une certaine manière, l'installation manquait d'originalité et d'impact. Pour mes propres créations, je chercherais à pousser les limites de l'expérience immersive et à créer quelque chose de plus saisissant et inoubliable. Je privilégierais des éléments qui captivent véritablement les sens et l'esprit du spectateur, peut-être en explorant des concepts plus audacieux ou en utilisant des techniques artistiques plus innovantes.
 
 
