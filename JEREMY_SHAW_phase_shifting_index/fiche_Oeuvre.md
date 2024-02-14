@@ -33,7 +33,7 @@ Les écrans, des haut-parleurs, des équipements d'éclairage, etc.
 Bancs, éclairage, système de projection vidéo, etc.
 
 Expérience vécue	Posture du visiteur ou gestes de l'interacteur 🎥 possibilité d'intégrer de courts vidéos pour documenter l'interactivité avec celle-ci
-
+Assis ou debout
 
 ❤️ Ce qui vous a plu, vous a donné des idées (et pourquoi - justifications	Éléments pertinents: 
 Immersion (le son, les jeux de lumière et les vibrations)
