@@ -20,7 +20,7 @@ Jeremy Shaw est un artiste canadien né en 1977 à North Vancouver. Son travail 
 7 écrans affichent des images de sept groupes différents en train de danser, de participer à des séances de thérapie ou simplement de faire des mouvements répétitifs.
 
 ## Installation et mise en espace
-
+![image](https://github.com/Sabrina2828/H24_V11_inspirations_GAGNE/blob/main/JEREMY_SHAW_phase_shifting_index/medias/affiche_expo_a.jpg?raw=true)
 L'installation "Phase Shifting Index" offre une expérience immersive avec des écrans diffusant des images et des sons dans une salle aménagée pour créer une atmosphère captivante. Les écrans sont placés de différentes manières, certains sont proches du public pour une expérience intense, d'autres sont plus éloignés pour créer une sensation de profondeur.
 
 ## Composantes et techniques
