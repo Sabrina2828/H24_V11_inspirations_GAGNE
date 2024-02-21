@@ -31,7 +31,7 @@ L'installation "Phase Shifting Index" offre une expérience immersive avec des �
 L'œuvre utilise des écrans, des haut-parleurs et des lumières pour immerger les spectateurs. Des bancs ont été placés pour le confort, et ils capturent également les vibrations des haut-parleurs pour une expérience tactile. Cette combinaison crée une expérience sensorielle captivante pour les visiteurs.
 
 ## Expérience vécue
-
+<img src="https://github.com/Sabrina2828/H24_V11_inspirations_GAGNE/blob/main/JEREMY_SHAW_phase_shifting_index/medias/photo_prise_par_moi.jpeg?raw=true" width="380" height="500">
 Dans cette exposition, les visiteurs sont libres de se déplacer autour des écrans de l'œuvre "Jeremy Shaw: Phase Shifting Index". En observant attentivement les images et en écoutant les sons, ils peuvent vraiment s'immerger dans l'expérience. Pour ma part, cette expérience a été incroyable. En me laissant absorber par les contenus visuels et sonores, j'ai ressenti une profonde connexion avec l'artiste et son message.
 
 ## Appréciation
