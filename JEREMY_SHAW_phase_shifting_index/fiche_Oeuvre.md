@@ -1,7 +1,7 @@
 # Jeremy Shaw : Phase Shifting Index
 
 ## Détails de l'exposition
-![image](https://github.com/Sabrina2828/H24_V11_inspirations_GAGNE/assets/142918317/dca99134-afd3-423a-b37e-dab1225a7895)
+![image](https://github.com/Sabrina2828/H24_V11_inspirations_GAGNE/blob/main/JEREMY_SHAW_phase_shifting_index/medias/affiche_expo_a.jpg?raw=true)
 Je me suis rendu à l'exposition "Jeremy Shaw: Phase Shifting Index" à la Fonderie Darling le 31 janvier 2024. Cette exposition temporaire a mis en lumière l'œuvre principale "Phase Shifting Index" de l'artiste Jeremy Shaw, réalisée en 2020.
 
 ## Œuvre et artiste
