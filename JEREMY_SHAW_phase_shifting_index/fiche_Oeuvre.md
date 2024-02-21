@@ -16,7 +16,7 @@ Jeremy Shaw est un artiste canadien né en 1977 à North Vancouver. Son travail 
 ## Description de l'oeuvre
 <img src="https://github.com/Sabrina2828/H24_V11_inspirations_GAGNE/blob/main/JEREMY_SHAW_phase_shifting_index/medias/salle_2_ecrans_ensemble_gauche_d.jpeg?raw=true" width="650" height="500">
 <img src="https://github.com/Sabrina2828/H24_V11_inspirations_GAGNE/blob/main/JEREMY_SHAW_phase_shifting_index/medias/salle_2_ecrans_ensemble_gauche_e.jpeg?raw=true" width="650" height="500">
-<img src="https://github.com/Sabrina2828/H24_V11_inspirations_GAGNE/blob/main/JEREMY_SHAW_phase_shifting_index/medias/salle_2_ecrans_ensemble_droit_b.jpeg?raw=true" width="650" height="500">
+<img src="https://github.com/Sabrina2828/H24_V11_inspirations_GAGNE/blob/main/JEREMY_SHAW_phase_shifting_index/medias/salle_2_ecrans_ensemble_droit_c.jpeg?raw=true" width="650" height="500">
 "Phase Shifting Index", créée par l'artiste Jeremy Shaw en 2020, est une œuvre multidisciplinaire qui explore les états secondaires et les pratiques transcendantales. À travers une combinaison d'éléments visuels, sonores et conceptuels, cette œuvre invite les spectateurs à plonger dans un univers où le temps et la réalité se transforment, remettant en question leur perception du monde qui les entoure.
 7 écrans affichent des images de sept groupes différents en train de danser, de participer à des séances de thérapie ou simplement de faire des mouvements répétitifs.
 
