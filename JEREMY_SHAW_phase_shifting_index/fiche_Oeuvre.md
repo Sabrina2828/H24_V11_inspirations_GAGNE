@@ -2,7 +2,7 @@
 <img src="https://github.com/Sabrina2828/H24_V11_inspirations_GAGNE/blob/main/JEREMY_SHAW_phase_shifting_index/medias/photo_prise_par_moi.jpeg?raw=true" width="450" height="600">
 Photo prise par moi
 
-## Détails de l'exposition
+## Présentation de l'exposition
 
 ![image](https://github.com/Sabrina2828/H24_V11_inspirations_GAGNE/blob/main/JEREMY_SHAW_phase_shifting_index/medias/affiche_expo_a.jpg?raw=true)
 
