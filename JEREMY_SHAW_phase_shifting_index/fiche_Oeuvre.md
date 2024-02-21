@@ -1,5 +1,5 @@
 # Jeremy Shaw : Phase Shifting Index
-<img src="https://github.com/Sabrina2828/H24_V11_inspirations_GAGNE/blob/main/JEREMY_SHAW_phase_shifting_index/medias/photo_prise_par_moi.jpeg?raw=true" width="450" height="600">
+<img src="https://github.com/Sabrina2828/H24_V11_inspirations_GAGNE/blob/main/JEREMY_SHAW_phase_shifting_index/medias/photo_prise_par_moi.jpeg?raw=true" width="380" height="500">
 Photo prise par moi
 
 ## Présentation de l'exposition
@@ -22,9 +22,7 @@ L'installation "Phase Shifting Index" offre une expérience immersive avec des �
 
 ## Composantes et techniques
 <img src="https://github.com/Sabrina2828/H24_V11_inspirations_GAGNE/blob/main/JEREMY_SHAW_phase_shifting_index/medias/salle_2_ecrans_ensemble_droit_b.jpeg?raw=true" width="370" height="500">
-L'œuvre est composée d'écrans, de haut-parleurs et de dispositifs d'éclairage, tous soigneusement intégrés pour offrir une expérience immersive aux spectateurs. Dans le cadre de la mise en place de l'exposition, le musée a soigneusement conçu l'éclairage pour jouer avec l'ambiance, créant ainsi différentes atmosphères tout au long de l'expérience. De plus, des bancs ont été installés pour le confort des visiteurs, leur permettant de s'immerger totalement dans l'œuvre. Les bancs ont également été astucieusement conçus pour capter les vibrations des haut-parleurs, ajoutant ainsi une dimension tactile à l'expérience et enrichissant les sensations ressenties par les spectateurs. En combinant ces éléments, le musée a créé une expérience sensorielle captivante et complète pour les visiteurs.
-///
-Les composantes de l'œuvre comprennent des écrans, des haut-parleurs, des équipements d'éclairage, etc. Pour la mise en exposition, le musée a installé des bancs, éclairage, système de projection vidéo, etc.
+L'œuvre utilise des écrans, des haut-parleurs et des lumières pour immerger les spectateurs. Des bancs ont été placés pour le confort, et ils capturent également les vibrations des haut-parleurs pour une expérience tactile. Cette combinaison crée une expérience sensorielle captivante pour les visiteurs.
 
 ## Expérience vécue
 
