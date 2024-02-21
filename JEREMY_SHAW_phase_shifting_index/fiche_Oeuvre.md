@@ -1,20 +1,24 @@
-Nom de l'exposition ou de l'événement	Affiche de l'exposition:
-L'exposition se nomme Phase Shifting Index.
+# Jeremy Shaw : Phase Shifting Index
 
-Lieu de mise en exposition	Vous devant l'entrée de l'édifice: 
-La Fonderie Darling
+## Détails de l'exposition
+Je me suis rendu à l'exposition "Jeremy Shaw: Phase Shifting Index" à la Fonderie Darling le 31 janvier 2024. Cette exposition temporaire a mis en lumière l'œuvre principale "Phase Shifting Index" de l'artiste Jeremy Shaw, réalisée en 2020.
 
+## Œuvre et artiste
 Type d'exposition (temporaire, permanente, itinérante, intérieure, extérieure)	N/A : 
 temporaire, intérieur
 
+## Description de l'oeuvre
 Date de votre visite	N/A : 
 31 janvier 2024
 
+## Installation et mise en espace
 Titre de l'oeuvre	Vue d'ensemble de l'oeuvre ou du dispositif :
 
+## Composantes et techniques
 Nom de l'artiste	Cartel :
 Jeremy Shaw
 
+## Expérience vécue
 Année de réalisation	N/A
 
 Description de l'oeuvre	Cartel + diverses vues :
