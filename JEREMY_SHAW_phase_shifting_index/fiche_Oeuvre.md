@@ -14,6 +14,7 @@ Je me suis rendu à l'exposition "Jeremy Shaw: Phase Shifting Index" à la Fonde
 Jeremy Shaw est un artiste canadien né en 1977 à North Vancouver. Son travail explore les états de conscience altérés et les pratiques culturelles et scientifiques transcendantales. Il utilise diverses techniques artistiques, fusionnant souvent cinéma-vérité, art conceptuel, vidéoclips et recherche scientifique. Shaw est reconnu internationalement pour ses installations immersives et ses vidéos expérimentales. Il a exposé dans des lieux prestigieux tels que le Centre Pompidou à Paris, le MoMA PS1 à New York et au Schinkel Pavillon à Berlin. Ses œuvres se retrouvent dans des collections renommées comme celles du MoMA de New York et de la Tate Modern à Londres. Au-delà de son succès artistique, Shaw est loué pour son exploration continue des limites de l'art et de la perception humaine. Son travail incite à la réflexion et à l'émotion, en faisant l'un des artistes les plus influents de sa génération.
 
 ## Description de l'oeuvre
+![image](https://github.com/Sabrina2828/H24_V11_inspirations_GAGNE/blob/main/JEREMY_SHAW_phase_shifting_index/medias/affiche_expo_a.jpg?raw=true)
 "Phase Shifting Index", créée par l'artiste Jeremy Shaw en 2020, est une œuvre multidisciplinaire qui explore les états secondaires et les pratiques transcendantales. À travers une combinaison d'éléments visuels, sonores et conceptuels, cette œuvre invite les spectateurs à plonger dans un univers où le temps et la réalité se transforment, remettant en question leur perception du monde qui les entoure.
 7 écrans affichent des images de sept groupes différents en train de danser, de participer à des séances de thérapie ou simplement de faire des mouvements répétitifs.
 
@@ -38,5 +39,5 @@ Immersion (le son, les jeux de lumière et les vibrations)
 🤔 Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement et justifications	Éléments pertinents: La simplicité, car j'ai trouvé que, d'une certaine manière, l'installation manquait d'originalité et d'impact. Pour mes propres créations, je chercherais à pousser les limites de l'expérience immersive et à créer quelque chose de plus saisissant et inoubliable. Je privilégierais des éléments qui captivent véritablement les sens et l'esprit du spectateur, peut-être en explorant des concepts plus audacieux ou en utilisant des techniques artistiques plus innovantes.
 
 
-### Référence
+### Références
 https://macm.org/expositions/jeremy-shaw/
