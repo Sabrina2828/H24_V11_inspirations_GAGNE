@@ -25,6 +25,8 @@ L'installation "Phase Shifting Index" offre une expérience immersive avec des �
 
 ## Composantes et techniques
 
+L'œuvre est composée d'écrans, de haut-parleurs et de dispositifs d'éclairage, tous soigneusement intégrés pour offrir une expérience immersive aux spectateurs. Dans le cadre de la mise en place de l'exposition, le musée a soigneusement conçu l'éclairage pour jouer avec l'ambiance, créant ainsi différentes atmosphères tout au long de l'expérience. De plus, des bancs ont été installés pour le confort des visiteurs, leur permettant de s'immerger totalement dans l'œuvre. Les bancs ont également été astucieusement conçus pour capter les vibrations des haut-parleurs, ajoutant ainsi une dimension tactile à l'expérience et enrichissant les sensations ressenties par les spectateurs. En combinant ces éléments, le musée a créé une expérience sensorielle captivante et complète pour les visiteurs.
+///
 Les composantes de l'œuvre comprennent des écrans, des haut-parleurs, des équipements d'éclairage, etc. Pour la mise en exposition, le musée a installé des bancs, éclairage, système de projection vidéo, etc.
 
 ## Expérience vécue
