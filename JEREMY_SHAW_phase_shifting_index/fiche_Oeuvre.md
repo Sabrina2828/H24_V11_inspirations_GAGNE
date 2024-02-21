@@ -1,6 +1,7 @@
 # Jeremy Shaw : Phase Shifting Index
 
 ## Détails de l'exposition
+![image](https://github.com/Sabrina2828/H24_V11_inspirations_GAGNE/assets/142918317/dca99134-afd3-423a-b37e-dab1225a7895)
 Je me suis rendu à l'exposition "Jeremy Shaw: Phase Shifting Index" à la Fonderie Darling le 31 janvier 2024. Cette exposition temporaire a mis en lumière l'œuvre principale "Phase Shifting Index" de l'artiste Jeremy Shaw, réalisée en 2020.
 
 ## Œuvre et artiste
@@ -45,3 +46,5 @@ Immersion (le son, les jeux de lumière et les vibrations)
 🤔 Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement et justifications	Éléments pertinents: La simplicité, car j'ai trouvé que, d'une certaine manière, l'installation manquait d'originalité et d'impact. Pour mes propres créations, je chercherais à pousser les limites de l'expérience immersive et à créer quelque chose de plus saisissant et inoubliable. Je privilégierais des éléments qui captivent véritablement les sens et l'esprit du spectateur, peut-être en explorant des concepts plus audacieux ou en utilisant des techniques artistiques plus innovantes.
 
 
+### Référence
+https://macm.org/expositions/jeremy-shaw/
