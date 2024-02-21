@@ -26,7 +26,7 @@ L'œuvre utilise des écrans, des haut-parleurs et des lumières pour immerger l
 
 ## Expérience vécue
 
-Dans cette exposition, les visiteurs sont invités à plonger dans une expérience sensorielle immersive avec l'œuvre "Jeremy Shaw: Phase Shifting Index". Ils peuvent se déplacer librement dans la salle pour découvrir les différents écrans et se laisser captiver par les images et les sons qui les entourent. Pour interagir avec l'œuvre, il suffit de regarder les écrans et de se laisser emporter par ce qui est diffusé. Personnellement, cette expérience m'a profondément marqué en me transportant dans un état de contemplation et de réflexion intense. C'était une immersion captivante qui m'a permis de m'évader et de me connecter avec l'artiste et son message de manière profonde.
+Dans cette exposition, les visiteurs sont libres de se déplacer autour des écrans de l'œuvre "Jeremy Shaw: Phase Shifting Index". En observant attentivement les images et en écoutant les sons, ils peuvent vraiment s'immerger dans l'expérience. Pour ma part, cette expérience a été incroyable. En me laissant absorber par les contenus visuels et sonores, j'ai ressenti une profonde connexion avec l'artiste et son message.
 
 ## Appréciation
 Ce que j'ai vraiment aimé de l'oeuvre, c'est l'immersion totale grâce au son, à la lumière et aux vibrations. Cela m'a plongé directement dans l'œuvre et a rendu mon expérience vraiment captivante.
