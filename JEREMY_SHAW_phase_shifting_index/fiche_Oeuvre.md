@@ -1,6 +1,12 @@
 # Jeremy Shaw : Phase Shifting Index
+### Photo prise par moi
 <img src="https://github.com/Sabrina2828/H24_V11_inspirations_GAGNE/blob/main/JEREMY_SHAW_phase_shifting_index/medias/photo_prise_par_moi.jpeg?raw=true" width="380" height="500">
-Photo prise par moi
+
+
+### Lieu de mise en exposition:
+La Fonderie Darling
+### Date de notre visite: 
+31 janvier 2024
 
 ## Présentation de l'exposition
 
@@ -31,7 +37,8 @@ Dans cette exposition, les visiteurs sont libres de se déplacer autour des écr
 ## Appréciation
 Ce que j'ai vraiment aimé de l'oeuvre, c'est l'immersion totale grâce au son, à la lumière et aux vibrations. Cela m'a plongé directement dans l'œuvre et a rendu mon expérience vraiment captivante.
 
-L'aspect que je préférerais éviter serait la dispersion de l'attention due à la présence de multiples écrans dans mes propres créations. Plutôt que de diviser l'attention du spectateur, je chercherais à offrir une expérience plus concentrée et immersive en me focalisant sur un seul écran ou un seul élément à la fois. Cela permettrait aux spectateurs de mieux apprécier et de s'immerger pleinement dans le contenu présenté.
+## Critique
+Je veux éviter de disperser l'attention des spectateurs en utilisant plusieurs écrans dans mes créations. Je préfère me concentrer sur un seul élément à la fois pour offrir une expérience immersive. Cela aidera les spectateurs à mieux apprécier le contenu présenté.
 
 
 ### Références
