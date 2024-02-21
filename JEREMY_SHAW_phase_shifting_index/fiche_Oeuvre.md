@@ -25,10 +25,9 @@ Jeremy Shaw est un artiste canadien né en 1977 à North Vancouver. Son travail 
 L'installation "Phase Shifting Index" offre une expérience immersive avec des écrans diffusant des images et des sons dans une salle aménagée pour créer une atmosphère captivante. Les écrans sont placés de différentes manières, certains sont proches du public pour une expérience intense, d'autres sont plus éloignés pour créer une sensation de profondeur.
 
 ## Composantes et techniques
-Chacune des parties composantes de l'oeuvre (ce que l'artiste a fait - pensez à ce qui doit voyager dans une caisse de transport si ceci est exposé outremer):
-Les écrans, des haut-parleurs, des équipements d'éclairage, etc.
-Éléments nécessaires à la mise en exposition	Chacun des éléments que le musée a mis en place pour que l'oeuvre soit exposée (bancs, cache-fil, crochets, sacs de sable, câbles, éclairage, herses...)
-Bancs, éclairage, système de projection vidéo, etc.
+
+Les composantes de l'œuvre comprennent des écrans, des haut-parleurs, des équipements d'éclairage, etc. Pour la mise en exposition, le musée a installé des bancs, éclairage, système de projection vidéo, etc.
+
 ## Expérience vécue
 
 Expérience vécue	Posture du visiteur ou gestes de l'interacteur 🎥 possibilité d'intégrer de courts vidéos pour documenter l'interactivité avec celle-ci
