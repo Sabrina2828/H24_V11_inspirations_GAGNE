@@ -1,1 +1,1 @@
-Ce dossier contient mes photos et mes vidéos.
+Ce dossier contient mes photos et mes vidéos du projet Oasis Immersion.
