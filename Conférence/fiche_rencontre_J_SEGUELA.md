@@ -17,11 +17,9 @@ Jade Séguela, spécialiste en art numérique, nous a offert un aperçu détaill
 
 5. **Gestion des Défis Quotidiens** : Jade a illustré la diversité et la complexité des responsabilités quotidiennes qu'elle et son équipe assument, en utilisant des anecdotes et des exemples concrets. De plus, elle a abordé les défis spécifiques liés aux lieux d'exposition en conditions extrêmes, notamment la protection contre les intempéries, la corrosion et d'autres contraintes environnementales.
 ### Exemple d'œuvre
-![Œuvre de Rafael Lozano-Hemmer]([lien_de_l_image](https://thenational-the-national-prod.cdn.arcpublishing.com/resizer/v2/NR733DXN7VFA5HRFRFX575NNKQ.jpg?smart=true&auth=b5e0cf8b69dca92dcb9a70ce81b2842ae4251c59e5ec2fefe5af3bcc0fa7954e&width=800&height=599)  
-*Source : [Site web de Rafael Lozano-Hemmer](https://www.lozano-hemmer.com/exhibitions/rafael_lozano-hemmer_translation_island_abu_dhabi_2023.php#:~:text=November%2020th%2C%202023%20%2D%20January%2031st,water%20from%20downtown%20Abu%20Dhabi.)  
+![Œuvre de Rafael Lozano-Hemmer]([lien_de_l_image](https://thenational-the-national-prod.cdn.arcpublishing.com/resizer/v2/NR733DXN7VFA5HRFRFX575NNKQ.jpg?smart=true&auth=b5e0cf8b69dca92dcb9a70ce81b2842ae4251c59e5ec2fefe5af3bcc0fa7954e&width=800&height=599))
+*Source : [Site web de Rafael Lozano-Hemmer](https://www.lozano-hemmer.com/exhibitions/rafael_lozano-hemmer_translation_island_abu_dhabi_2023.php#:~:text=November%2020th%2C%202023%20%2D%20January%2031st,water%20from%20downtown%20Abu%20Dhabi.)
 Cette œuvre m'a particulièrement marquée par son originalité et son impact visuel. Elle illustre parfaitement le talent et la créativité de Rafael Lozano-Hemmer dans le domaine de l'art numérique.
 
 ### Conclusion
 La conférence de Jade Séguéla était vraiment instructive. Elle nous a montré à quel point il est essentiel de bien organiser et de documenter les œuvres d'art numérique. Grâce à elle, on a pu plonger dans les coulisses des œuvres interactives de Rafael Lozano-Hemmer et comprendre toute la logistique derrière. C'était une super opportunité d'en apprendre plus sur les enjeux et les responsabilités de la conservation et de la mise en avant de l'art numérique.
-
-La conférence de Jade Séguela a été une expérience enrichissante qui nous a permis de mieux comprendre les complexités et les enjeux de la gestion des œuvres d'art numérique. Son expertise, combinée à des exemples concrets et des anecdotes, a rendu cette présentation à la fois informative et captivante. Grâce à elle, nous avons pu apprécier l'importance de chaque étape du processus, de la logistique à la conservation, en passant par l'interaction avec le public. C'était une occasion unique d'en apprendre davantage sur ce domaine fascinant et en constante évolution.
