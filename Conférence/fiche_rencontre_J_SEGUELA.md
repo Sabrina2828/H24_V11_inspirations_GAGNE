@@ -29,19 +29,17 @@ Jade Séguéla est une spécialiste en art numérique ayant une expertise dans l
 ## 2. Les œuvres de Rafael Lozano-Hemmer
 - **L'interactivité au cœur de ses créations** : Transformation de l'expérience artistique.
 - **Concept de dispositif œuvre** : Œuvres interactives passives et actives.
-- **Exemple d'œuvre marquante** : Présentation d'une œuvre spécifique.
+- **Exemples de projets antérieurs** : Présentation de plusieurs œuvres.
 
 ## 3. Étude de cas #1 : Documenter une exposition d'art numérique
 - **Préparation et mise en valeur des œuvres** : Étapes clés pour une exposition réussie.
 - **Importance de la documentation rigoureuse** : Conservation et valeur des œuvres.
-- **Défis de la documentation et de la conservation** : Difficultés courantes et solutions.
+- **Défis de la documentation et de la conservation** : Difficultés courantes.
 
 ## 4. Étude de cas #2 : Translation Stream
-- **Logistique et défis spécifiques** : Défis uniques de créer une œuvre pour une île déserte.
+- **Logistique et défis spécifiques** : Défis uniques de créer une œuvre sur une île déserte.
 - **Interaction avec le public et impact environnemental** : Engagement du public et impact.
 - **Planification et gestion des ressources** : Planification minutieuse nécessaire.
-
-### Translation Stream
 
 <img src="./medias/photo_internet_translation_stream.png">
 
