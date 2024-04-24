@@ -1,1 +1,1 @@
-Ce dossier contient mon projet Conférence.
+Ce dossier contient le projet Conférence.
