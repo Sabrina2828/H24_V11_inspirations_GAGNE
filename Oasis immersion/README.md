@@ -1,1 +1,1 @@
-Ce dossier contient mon projet Oasis Immersion.
+Ce dossier contient le projet Oasis Immersion.
