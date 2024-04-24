@@ -4,15 +4,15 @@ Le mardi 16 avril 2024, j'ai assisté à une conférence animée par Jade Ségue
 
 ## Structure de la Conférence
 ### 1. Antimodular Research
-- **Présentation du Studio Antimodular et de Rafael Lozano Hemmer** : Un aperçu du studio et de l'artiste.
-- **Rôle en tant que registraire** : Les responsabilités et tâches quotidiennes.
-- **Parcours professionnel et académique** : Éducation et expériences professionnelles.
-- **Responsabilités au sein du Studio** : Défis et opportunités.
-
-### 2. Les œuvres de Rafael Lozano-Hemmer
+- **Présentation du Studio Antimodular et de Rafael Lozano Hemmer** : Un aperçu de l'artiste, du studio et de l'équipe.
 - **Interactivité** : Comment l'interactivité transforme l'expérience artistique..
 - **Dispositif œuvre** : Différences entre œuvres interactives passives et actives..
 - **Exemples d'œuvres** : Présentation de projets marquants.
+
+### 2. Profil de Jade Séguela
+- **Rôle en tant que registraire** : Les responsabilités et tâches quotidiennes.
+- **Parcours professionnel et académique** : Éducation et expériences professionnelles.
+- **Responsabilités au sein du Studio** : Défis et opportunités.
 
 ### 3. Étude de cas #1 : Documenter une exposition d'art numérique
 - **Préparation et mise en valeur des œuvres** : Étapes clés pour une exposition réussie.
