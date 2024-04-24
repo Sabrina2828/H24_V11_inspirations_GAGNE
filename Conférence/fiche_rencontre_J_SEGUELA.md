@@ -6,6 +6,7 @@ Le mardi 16 avril 2024, de 12h30 à 14h00, j'ai assisté à la conférence de Ja
 ### Présentation de l'intervenante et du thème
 Jade Séguela, spécialiste en art numérique, nous a offert un aperçu détaillé de son travail en tant que registraire au Studio Antimodular. Sa maîtrise des nuances de la gestion et de la présentation des œuvres nous a permis de mieux comprendre les complexités et les enjeux de ce domaine dynamique.
 
+Jade Séguéla est une spécialiste en art numérique ayant une expertise dans la gestion et la présentation d'œuvres d'art. Sa présentation a mis en lumière l'importance de la logistique dans le domaine, soulignant la nécessité d'une organisation rigoureuse pour garantir le succès et la préservation des œuvres.
 ### Grandes idées partagées
 1. **Logistique et Réception des Œuvres** : Jade a mis en avant l'importance d'une logistique efficace pour la réception des œuvres, couvrant des aspects tels que l'import/export et l'emballage des pièces.
   
@@ -16,6 +17,30 @@ Jade Séguela, spécialiste en art numérique, nous a offert un aperçu détaill
 4. **Interaction avec le Public** : Jade a souligné comment l'interaction avec le public enrichit l'expérience artistique, faisant des œuvres d'art numérique plus vivantes et engageantes.
 
 5. **Gestion des Défis Quotidiens** : Jade a illustré la diversité et la complexité des responsabilités quotidiennes qu'elle et son équipe assument, en utilisant des anecdotes et des exemples concrets. De plus, elle a abordé les défis spécifiques liés aux lieux d'exposition en conditions extrêmes, notamment la protection contre les intempéries, la corrosion et d'autres contraintes environnementales.
+
+
+
+## 1. Présentation Antimodular Research
+- **Présentation du Studio Antimodular et de Rafael Lozano Hemmer** : Un aperçu du studio et de l'artiste.
+- **Rôle en tant que registraire** : Les responsabilités et tâches quotidiennes.
+- **Parcours professionnel et académique** : Éducation et expériences professionnelles.
+- **Responsabilités au sein du Studio** : Défis et opportunités.
+
+## 2. Les œuvres de Rafael Lozano-Hemmer
+- **L'interactivité au cœur de ses créations** : Transformation de l'expérience artistique.
+- **Concept de dispositif œuvre** : Œuvres interactives passives et actives.
+- **Exemple d'œuvre marquante** : Présentation d'une œuvre spécifique.
+
+## 3. Étude de cas #1 : Documenter une exposition d'art numérique
+- **Préparation et mise en valeur des œuvres** : Étapes clés pour une exposition réussie.
+- **Importance de la documentation rigoureuse** : Conservation et valeur des œuvres.
+- **Défis de la documentation et de la conservation** : Difficultés courantes et solutions.
+
+## 4. Étude de cas #2 : Translation Stream
+- **Logistique et défis spécifiques** : Défis uniques de créer une œuvre pour une île déserte.
+- **Interaction avec le public et impact environnemental** : Engagement du public et impact.
+- **Planification et gestion des ressources** : Planification minutieuse nécessaire.
+
 ### Translation Stream
 
 <img src="./medias/photo_internet_translation_stream.png">
