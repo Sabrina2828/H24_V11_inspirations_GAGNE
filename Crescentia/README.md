@@ -1,1 +1,1 @@
-Ce dossier contient mon projet Crescentia.
+Ce dossier contient le projet Crescentia.
