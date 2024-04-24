@@ -1,1 +1,1 @@
-Ce dossier contient mon projet Sonalux.
+Ce dossier contient le projet Sonalux.
