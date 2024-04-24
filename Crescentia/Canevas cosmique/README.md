@@ -1,1 +1,1 @@
-Ce dossier contient mon projet Canevas cosmique.
+Ce dossier contient le projet Canevas cosmique.
