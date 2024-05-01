@@ -37,4 +37,4 @@ Une similitude entre l'œuvre "Rêver l'Asie" et les projets d'étudiants est l'
 ### Conclusion:
 En somme, parmi les diverses créations et expériences de cette session, ce qui a réellement captivé mon attention est la capacité des installations immersives à nous transporter vers des univers saisissants et enchanteurs. "Rêver l'Asie" illustre parfaitement cette capacité en offrant une plongée inoubliable dans la richesse culturelle de la Chine et du Japon. C'est une invitation à un voyage sensoriel qui éveille nos sens et nourrit notre curiosité, nous permettant de découvrir et d'apprécier des traditions et des paysages emblématiques.
 
-Source:https://oasis.im/rever-l-asie/
+[Source](https://oasis.im/rever-l-asie/)
