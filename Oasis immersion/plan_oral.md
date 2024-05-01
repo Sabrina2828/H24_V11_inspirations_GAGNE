@@ -34,7 +34,7 @@ J'ai été ravie de la liberté offerte par cette expérience, qui nous permet d
 ### Liens avec d'autres œuvres, dispositifs et expériences multimédias découverts cette session:
 Une similitude entre l'œuvre "Rêver l'Asie" et les projets d'étudiants est l'utilisation de projecteurs pour afficher des images sur les murs. Cette technologie de projection est utilisée pour créer des environnements visuels immersifs et captivants, que ce soit pour dépeindre des paysages asiatiques dans le cas de "Rêver l'Asie", ou pour présenter des projets artistiques ou scientifiques dans le cas des projets d'étudiants.
 
-**Conclusion**:
+### Conclusion:
 En somme, parmi les diverses créations et expériences de cette session, ce qui a réellement captivé mon attention est la capacité des installations immersives à nous transporter vers des univers saisissants et enchanteurs. "Rêver l'Asie" illustre parfaitement cette capacité en offrant une plongée inoubliable dans la richesse culturelle de la Chine et du Japon. C'est une invitation à un voyage sensoriel qui éveille nos sens et nourrit notre curiosité, nous permettant de découvrir et d'apprécier des traditions et des paysages emblématiques.
 
 Source:https://oasis.im/rever-l-asie/
