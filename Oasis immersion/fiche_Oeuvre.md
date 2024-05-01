@@ -1,5 +1,5 @@
-### Présentation de l'Exposition "Rêver l'Asie" par OASIS Immersion
-
+# Présentation de l'Exposition "Rêver l'Asie" par OASIS Immersion
+<img src="/Oasis immersion/medias/salle_1_photo_01.jpeg">
 L'objectif de cette présentation est de partager avec vous mon expérience de l'exposition "Rêver l'Asie" par OASIS Immersion.
 
 ## Dans cette présentation, nous aborderons les aspects suivants :
@@ -9,6 +9,8 @@ L'objectif de cette présentation est de partager avec vous mon expérience de l
 4. Liens avec d'autres expériences multimédias découvertes lors de cette session.
 
 ### Informations sur l'œuvre:
+<img src="/Oasis immersion/medias/salle_3_photo_03.jpeg">
+
 - **Titre**: Rêver l'Asie
 - **Artiste/Firme**: OASIS Immersion en collaboration avec Danny Rose Studio
 - **Année de réalisation**: Disponible à Montréal à partir du 13 décembre
@@ -19,6 +21,8 @@ L'objectif de cette présentation est de partager avec vous mon expérience de l
 -  **Durée**: Environ 80 minutes
 
 ### Présentation détaillée de l'œuvre ou du dispositif multimédia:
+<img src="/Oasis immersion/medias/équipement.jpeg">
+
 - **Description**: Rêver l'Asie est une expérience immersive conçue pour transporter les visiteurs au cœur du patrimoine culturel de la Chine et du Japon à travers trois expériences distinctes. Ces expériences comprennent des animations numériques mettant en valeur des éléments emblématiques de ces cultures.
 - **Type d'installation**: Installation immersive
 - **Fonction**: Offrir une expérience visuelle et sensorielle immersive sur les cultures chinoise et japonaise.
@@ -26,6 +30,7 @@ L'objectif de cette présentation est de partager avec vous mon expérience de l
 - **Composantes et éléments**: Animation numérique, sons, éclairages, décors virtuels.
 
 ### Expérience vécue:
+<img src="/Oasis immersion/medias/salle_1_photo_03.jpeg">
 Ma visite à l'exposition le 1er mars à 16 heures a été mouvementée, entre les embouteillages et ma batterie de téléphone presque déchargée. Néanmoins, une fois à l'intérieur, j'ai été complètement absorbée par l'expérience et j'ai pu prendre des photos pour immortaliser ces moments. La division de l'exposition en trois parties distinctes a permis une exploration libre et immersive. Les représentations virtuelles des paysages et des traditions asiatiques m'ont vraiment impressionné, et l'interaction avec les animations et les sons a rendu l'expérience encore plus immersive.
 
 ### Appréciation critique et justifications:
