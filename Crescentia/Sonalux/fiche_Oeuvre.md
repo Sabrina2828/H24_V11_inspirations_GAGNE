@@ -20,7 +20,7 @@
 </div> 
 
 ### Ressenti
-Lors de ma première visite, j'ai été très déçue de constater que la seule chose qui fonctionnait était la toile. Sans les images sur les murs, l'expérience semblait vraiment vide. Heureusement, lors de ma deuxième visite, le problème a été résolu et j'ai pu enfin apprécier l'œuvre. Elle m'a replongée dans des souvenirs nostalgiques. Malgré cette immersion, j'ai trouvé que l'experience était assez ordinaire. Cela m'a vraiment fait réfléchir à l'importance cruciale de la qualité technique et artistique dans la création d'œuvres interactives.
+Lors de ma première visite, j'étais un peu perdu quant à ce qu'il fallait faire, mais j'ai remarqué la présence de boutons qui semblaient contrôler certains aspects de ce que nous voyions. Cependant, c'est lors de ma deuxième visite que j'ai réellement apprécié l'expérience. Cette fois, j'ai pu utiliser des écouteurs, ce qui m'a permis d'immerger complètement dans l'expérience. En manipulant les boutons sur le podium, j'ai réalisé que je pouvais créer des effets fascinants sur les murs en glissant et en appuyant. J'avais un contrôle total sur l'ambiance sonore et visuelle qui m'entourait, ce qui était très amusant.
 
 ### Cours Incontournables
 1. **Web**: Ce cours permettra d'acquérir des compétences avancées en développement web, ce qui peut être utile pour intégrer des éléments interactifs en ligne à l'expérience Sonalux, notamment pour la conception de l'interface utilisateur et l'intégration des fonctionnalités interactives.
@@ -31,5 +31,5 @@ Lors de ma première visite, j'ai été très déçue de constater que la seule 
 L'Arduino IDE est un logiciel qui sert à programmer les cartes Arduino. Les cartes Arduino sont des outils électroniques programmables utilisés pour créer une multitude de projets interactifs.
 
 ### Classement (Avant/Après l'Expérimentation)
-Avant : 2
+Avant : 3
 Après : 2
