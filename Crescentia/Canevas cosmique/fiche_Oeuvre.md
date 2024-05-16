@@ -11,13 +11,13 @@
 ### Lien vers Crescentia
 [Canevas Cosmique](https://tim-montmorency.com/2024/projets/Canevas-Cosmique/docs/web/index.html)
 
-### Installation en cours
-![Installation en cours](Crescentia/Canevas cosmique/medias/équipement.jpeg)
-
-
-
-### Schéma de l'installation prévue
-![Schéma de l'installation prévue](Crescentia/Canevas cosmique/medias/plan.png)
+### Installation 
+<img src="/Crescentia/Canevas cosmique/medias/équipement.jpeg" width="300px" height="400px">
+  
+ <div align="center">
+  <h3>Schéma de l'installation</h3>
+  <img src="/Crescentia/Canevas cosmique/medias/plan.png" width="50%" height="50%">
+</div>
 
 ### Ressenti
 J'ai trouvé cette expérience avec l'œuvre multimédia vraiment captivante. Chaque fois que je déplaçais les statuettes, cela déclenchait des effets cosmiques qui m'ont vraiment impressionné. L'ambiance visuelle et sonore m'a complètement emporté dans un voyage spatial. Cela a vraiment éveillé ma curiosité et m'a amené à réfléchir davantage sur le fonctionnement de tout le dispositif.
