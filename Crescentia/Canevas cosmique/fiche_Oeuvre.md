@@ -1,5 +1,5 @@
 # Canevas Cosmique
-<img align="right" src="/Crescentia/Canevas cosmique/medias/vue_ensemble.jpeg" width="50%" height="100%">
+<img align="right" src="/Crescentia/Canevas cosmique/medias/écran_projecteur.jpeg" width="500px" height="600px">
 
 ### Créateurs
 - Mikaël Tourangeau
@@ -12,7 +12,7 @@
 [Canevas Cosmique](https://tim-montmorency.com/2024/projets/Canevas-Cosmique/docs/web/index.html)
 
 ### Installation 
-<img src="/Crescentia/Canevas cosmique/medias/équipement.jpeg" width="300px" height="400px">
+<img src="/Crescentia/Canevas cosmique/medias/équipement.jpeg" width="370px" height="400px">
   
  <div align="center">
   <h3>Schéma de l'installation</h3>
