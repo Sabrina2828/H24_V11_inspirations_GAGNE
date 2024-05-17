@@ -6,7 +6,8 @@
 - Felix Testa Radovanovic
 - Jolyanne Desjardins
 - Maïka Désy
-  
+
+
 ### Lien vers Crescentia
 [Rhizomatique](https://tim-montmorency.com/2024/projets/Rhizomatique/docs/web/index.html)
 
