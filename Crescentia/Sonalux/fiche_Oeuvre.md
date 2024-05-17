@@ -1,4 +1,5 @@
 # Sonalux
+<img align="right" src="/Crescentia/Sonalux/medias/visite_1_podium_01.jpeg" width="450px" height="600px">
 
 ### Créateurs
 - Vincent Desjardins
@@ -9,11 +10,14 @@
 ### Lien vers Crescentia
 [Sonalux](https://tim-montmorency.com/2024/projets/Sonalux/docs/web/index.html)
 
-### Installation en cours
-![Installation en cours](lien_vers_photo)
+### Installation
+<img align="left" src="/Crescentia/Sonalux/medias/installation.jpeg" width="500px" height="375px">
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
-### Schéma de l'installation prévue
-![Schéma de l'installation prévue](lien_vers_schema)
+<div align="center">
+  <h2>Schéma de l'installation</h2>
+  <img src="/Crescentia/Sonalux/medias/schema_plantation.png" width="500px" height="auto">
+</div> 
 
 ### Ressenti
 Lors de ma première visite, j'ai été très déçue de constater que la seule chose qui fonctionnait était la toile. Sans les images sur les murs, l'expérience semblait vraiment vide. Heureusement, lors de ma deuxième visite, le problème a été résolu et j'ai pu enfin apprécier l'œuvre. Elle m'a replongée dans des souvenirs nostalgiques. Malgré cette immersion, j'ai trouvé que l'experience était assez ordinaire. Cela m'a vraiment fait réfléchir à l'importance cruciale de la qualité technique et artistique dans la création d'œuvres interactives.
