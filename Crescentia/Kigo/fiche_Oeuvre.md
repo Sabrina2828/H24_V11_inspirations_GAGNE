@@ -31,7 +31,6 @@
 Ma première expérience du projet a été très positive. Malgré quelques problèmes mineurs avec le capteur, qui ont été résolus lors de la deuxième visite, le logiciel a bien fonctionné dans l'ensemble. Bref, le projet a été une expérience réussie qui a répondu à mes attentes.
 
 ### Cours Incontournables
-<img align="right" src="/Crescentia/Canevas cosmique/medias/écran_tactile.jpeg" width="40%" height="auto">
 
 1. **Illustration numérique**: Ce cours est essentiel pour acquérir les compétences nécessaires à la création des éléments visuels du jeu, tels que les paysages représentant les obstacles, l'avatar du joueur, etc.
 2. **Programmation Interactive**: Ce cours est crucial pour la mise en œuvre de l'interaction du jeu avec la Kinect. Vous apprendrez à programmer les mouvements de l'avatar du joueur en fonction des mouvements captés par la Kinect, ainsi que d'autres aspects de l'interaction du jeu.
